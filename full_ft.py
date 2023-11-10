@@ -1,3 +1,5 @@
+##### Adapted from https://github.com/tloen/alpaca-lora/finetune.py
+
 import os
 import sys
 from typing import List
